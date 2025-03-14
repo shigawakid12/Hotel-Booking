@@ -1,7 +1,7 @@
 # MaayoHotel
  
 ## 🎥 Demo Video  
-(https://www.youtube.com/watch?v=_8_zNgBAV7E)  
+(https://youtu.be/RUsRnLJdUjk)  
 🔗 *Click the link to watch the demo video on YouTube!*  
 
 
